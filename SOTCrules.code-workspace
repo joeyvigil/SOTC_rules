@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Joey\\Desktop\\cpp main directory\\GitRep"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"second": "cpp",
+			"typeinfo": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
