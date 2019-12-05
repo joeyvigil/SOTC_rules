@@ -1,2 +1,3 @@
-# SOTC_rules
-Rules for the board game Settlers of the Cosmos.
+# Settlers of the Cosmos 
+*created by joey vigil*
+## Table of contents
