@@ -4,4 +4,4 @@
 
 test
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "SOTC Logo")
+![alt text](https://github.com/joeyvigil/SOTC_rules/blob/master/images/logo.png?raw=true "Logo")
