@@ -1,4 +1,4 @@
-#Tribble 
+# Tribble 
 Relentlessly Reproduces
 
 Power 1: Tight Quarters- Tribbles max stack size is increased to 8
