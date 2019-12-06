@@ -14,7 +14,7 @@
    * Move Action
    * Invade Action
 6. Alien Powers
-   * p1 link
+   * [Mason](../blob/master/Powers/Mason.md)
    * p2 link
    * p3 link
    * p4 link
