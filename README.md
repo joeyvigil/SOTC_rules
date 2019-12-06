@@ -14,7 +14,9 @@
    * Move Action
    * Invade Action
 6. Alien Powers
-   * [Mason](../blob/master/Powers/Mason.md)
+   * [Mason](../master/Powers/Mason.md)
+   * https://github.com/joeyvigil/SOTC_rules/blob/blob/master/Powers/Mason.md
+   * https://github.com/joeyvigil/SOTC_rules/blob/master/Powers/Mason.md
    * p2 link
    * p3 link
    * p4 link
