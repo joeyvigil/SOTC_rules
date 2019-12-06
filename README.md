@@ -1,4 +1,5 @@
-# Settlers of the Cosmos 
+# Settlers of the Cosmos
+
 *created by joey vigil*
 
 ---
@@ -14,12 +15,21 @@
    * Move Action
    * Invade Action
 6. Alien Powers
+   * [Ascended](../master/Powers/Ascended.md)
+   * [Binary](../master/Powers/Binary.md)
+   * [Borg](../master/Powers/Borg.md)
+   * [Dancer](../master/Powers/Dancer.md)   
+   * [Domino](../master/Powers/Domino.md)
+   * [Fodder](../master/Powers/Fodder.md)
+   * [Friend](../master/Powers/Friend.md)
+   * [Hoarder](../master/Powers/Hoarder.md)
    * [Mason](../master/Powers/Mason.md)
-   * https://github.com/joeyvigil/SOTC_rules/blob/blob/master/Powers/Mason.md
-   * https://github.com/joeyvigil/SOTC_rules/blob/master/Powers/Mason.md
-   * p2 link
-   * p3 link
-   * p4 link
+   * [Replicator](../master/Powers/Replicator.md)   
+   * [Spite](../master/Powers/Spite.md)
+   * [Thanos](../master/Powers/Thanos.md)
+   * [Tribble](../master/Powers/Tribble.md)
+   * [Two-Faced](../master/Powers/TwoFaced.md)
+
 ### Components
 * 20 Ships of Each Color
 * 19 Planets
@@ -55,17 +65,19 @@ Settlers of the cosmos is a space strategy board game for 3-6 players. The winne
 ### Setup 
 Randomly collect the indicated void planet pieces and planet pieces indicated by the number of players. Arrange them randomly on the red circles on the board. 
  
-Next collect the number of Blank Tokens, Mineral Tokens, and Gas Tokens for the planet hexagons. Mix up these tokens and place them randomly on the planet pieces. Collect the number of Blank Tokens, Mineral Tokens, and Gas Tokens for the void planet hexagons. Mix up these tokens and place them randomly on the void planet peices. The chart below indicates the number of hexagons and tokens for each game.
+Next collect the number of Blank Tokens, Mineral Tokens, and Gas Tokens for the planet hexagons. Mix up these tokens and place them randomly on the planet pieces. Collect the number of Blank Tokens, Mineral Tokens, and Gas Tokens for the void planet hexagons. Mix up these tokens and place them randomly on the void planet pieces. The chart below indicates the number of hexagons and tokens for each game.
 
-Using Chart:  (number planet pieces or void planet peices) = (Blank Tokens) + (Mineral Tokens) + (Gas Tokens) 
+Using Chart:  (number planet pieces or void planet pieces) = (Blank Tokens) + (Mineral Tokens) + (Gas Tokens) 
  
  
-Players	Planet Pieces	Void Planet Pieces 
-2	8 = 8 + 0 + 0	11 = 5 + 4 + 2
-3	10 = 10 + 0 + 0	9 = 0 + 6 + 3
-4	13 = 7 + 4 + 2	6 = 0 + 4 + 2
-5	16 = 4 + 8 + 4	3 = 0 + 2 + 1
-6	19 = 1 + 12 + 6	0 = 0 + 0 + 0
+column0 | column1 | column2
+------- | ------- | -------
+Players | Planet Pieces | Void Planet Pieces 
+2 | 8 = 8 + 0 + 0 | 11 = 5 + 4 + 2
+3 | 10 = 10 + 0 + 0 | 9 = 0 + 6 + 3
+4 | 13 = 7 + 4 + 2 | 6 = 0 + 4 + 2
+5 | 16 = 4 + 8 + 4 | 3 = 0 + 2 + 1
+6 | 19 = 1 + 12 + 6 | 0 = 0 + 0 + 0
 
 Players randomly draw three races, choose one that they will play as during the game, and discard the others. Place this card face down and reveal it either at the start of the game or during its first use. Shuffle deck of cards. First player determined by dice roll or some other random element. 2nd player is to the left of 1st player, 3rd player is to the left of 2nd player etc. (i.e. Clockwise turns)
 
