@@ -1,4 +1,4 @@
-# DOMINO 
+# Domino 
 
 Previous invasions help you win the next
 

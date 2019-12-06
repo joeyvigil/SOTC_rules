@@ -1,4 +1,5 @@
-#ASCENDED 
+# ASCENDED 
+
 Have Reached a Higher Plane of Existence
 
 Setup: Start the game with 8 ships instead of the standard 32. Max ships allowed on board is 10.

@@ -1,4 +1,5 @@
-#Borg 
+# Borg 
+
 “Assimilate”
 
 Power 1: Assimilate- If we win an invasion, then we may place one of our ships in the winning side on one power of the player that lost the invasion. That power is now added to our powers. 
