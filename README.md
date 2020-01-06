@@ -4,8 +4,6 @@
 
 ---
 
-![alt text](https://github.com/joeyvigil/SOTC_rules/blob/master/images/logo2.png?raw=true "Logo") ![alt text](https://github.com/joeyvigil/SOTC_rules/blob/master/images/logo2.png?raw=true "Logo") ![alt text](https://github.com/joeyvigil/SOTC_rules/blob/master/images/logo2.png?raw=true "Logo") ![alt text](https://github.com/joeyvigil/SOTC_rules/blob/master/images/logo2.png?raw=true "Logo") ![alt text](https://github.com/joeyvigil/SOTC_rules/blob/master/images/logo2.png?raw=true "Logo") ![alt text](https://github.com/joeyvigil/SOTC_rules/blob/master/images/logo2.png?raw=true "Logo") 
-
 ### Table of contents
 1. Components
 2. Definitions
@@ -39,6 +37,7 @@
 * 14 Blank Tokens
 * 22 Mineral Tokens
 * 12 Gas Tokens
+* 10 Planetary Fortress Tokens
 * Playing Cards
   * 32 Invade Attack
   * 4 Sabotage
@@ -48,104 +47,104 @@
   * 12 Reinforcement
   * 5 Victory Points
 ### Definitions
-**Ship**- Plastic UFO Looking pieces, can be stacked. A **stack** is a stack of ships. Maximum stack size is **4** (unless otherwise stated). If a ship is **lost** then it is sent to the **graveyard**. Ships Can be lost by being on the losing side of an encounter, or if a sabotage card is played.
+**Ship**- Plastic UFO Looking pieces, can be stacked. A **stack** is a stack of ships. If a ship is **lost** then it is sent to the **graveyard**. Ships Can be lost by being on the losing side of an encounter, or if a sabotage card is played.
 
-**Game Board**- Game board is composed of 19 hexagons, planets and resources can exist in the center of these hexagons, ie the center of the circles.
+**Game Board**- Game board is composed of the playing area where ships can occupy, a graveyard and a deck and discard pile.
 
-**Site**- A location that a ship can occupy. On the game board these are located at the center of the circles, or at the corners of the triangles.
+**Site**- A location that a ship can occupy. On the game board these are located at the center of the circles or at the corners.
 
-**Settlement/Colony**- A planet site that is occupied by a ship(s). The Player who owns the ships, is colonizing the planet. Joint Colony/Settlement may occur when more than one player’s ship(s) is on a planet Site. 
+**Settlement/Colony**- A planet site that is occupied by a ship(s). The Player who owns the ships, is colonizing the planet. Colonizing a planet counts as one Victory point. A planet with a planetary fortress on it counts as 2 victory points.
 
-**Cards**- Cards indicate when they are played. 
+**Cards**- Encounter cards are played when one players ships attack another players ships. Both players play an encounter card face down. Reinforcements cards can be played afterwards by players involved and not involved in the encounter. Victory point cards give that player an additional victory point.
 
-**Resources**- There are two types of resources Minerals and Gas. Resources are obtained at the beginning of each turn. They can be spent to obtain a number of things.
+**Resources**- There are two types of resources Minerals and Gas. Resources are obtained at the beginning of each turn. They can be spent to obtain ships, cards, planetary fortresses and other enhancements.
+
 ### Goal
 The winner is the first player to reach 10 Victory Points. Victory points are obtained in the following ways:
 1. Having your ships colonizing a planet. (+1)
-2. Building a super colony on one of your planets. (+2)
+2. Having your ships colonizing a planet with a planetary fortress. (+2)
 3. Having cards that award victory points. (+1)
-4. longest road
-5. largest army
-6. Purchasing them.
+4. Least Ships in Graveyard. (+2)
+5. Most Cards in hand. (+2) 
+6. Purchasing them. (+1)
 
 ### Setup 
-Randomly collect the indicated void planet pieces and planet pieces indicated by the number of players. Arrange them randomly on the red circles on the board. 
- 
-Next collect the number of Blank Tokens, Mineral Tokens, and Gas Tokens for the planet hexagons. Mix up these tokens and place them randomly on the planet pieces. Collect the number of Blank Tokens, Mineral Tokens, and Gas Tokens for the void planet hexagons. Mix up these tokens and place them randomly on the void planet pieces. The chart below indicates the number of hexagons and tokens for each game.
 
-Using Chart:  (number planet pieces or void planet pieces) = (Blank Tokens) + (Mineral Tokens) + (Gas Tokens) 
- 
- 
-column0 | column1 | column2
-------- | ------- | -------
-Players | Planet Pieces | Void Planet Pieces 
-2 | 8 = 8 + 0 + 0 | 11 = 5 + 4 + 2
-3 | 10 = 10 + 0 + 0 | 9 = 0 + 6 + 3
-4 | 13 = 7 + 4 + 2 | 6 = 0 + 4 + 2
-5 | 16 = 4 + 8 + 4 | 3 = 0 + 2 + 1
-6 | 19 = 1 + 12 + 6 | 0 = 0 + 0 + 0
+Randomly collect the indicated number of Victory Point Planets (purple), Gas Planets (green), and Mineral Planets (blue) and place them on the circles of the game board. 
 
-Players randomly draw two races, choose one that they will play as during the game, and discard the other. Place this card face down and reveal it either at the start of the game or during its first use. Shuffle deck of cards. First player determined by dice roll or some other random element. 2nd player is to the left of 1st player, 3rd player is to the left of 2nd player etc. (i.e. Clockwise turns)
+Players | VP Planets | Gas Planets | Mineral Planets
+------- | ------- | ------- | ------
+2 | 7 | 3 | 3
+3 | 10 | 4 | 4
+4 | 10 | 4 | 4
+5 | 13 | 3 | 3
+6 | 19 | 2 | 2
 
-First player places 1-4 ship(s) on a planet of his choice, then places 1-4 ship(s) on any of the surrounding planets. This would mean that if they placed 4 ships on a planet and 4 ships on the surrounding 6 spaces, than that player placed 28 ships (4x7) on their first turn. 
+Players randomly draw two alien power cards, choose one that they will play as during the game and discard the other. All players reveal their alien power card at the beginning of the game.
 
-Second player then places ships, then 3rd, ext. After the last player places ships, the turn order is then reversed going from last to first. All players can place up to a total of 32 ships (4x8). 
+Determine turn order by dice roll or other random method.
 
-Max stack size of ships is 4
+First player places 4 ships in one site on the outside edge of playing board, 2nd player follows until all players have placed all their ships.
 
-Players are given a starting hand. Starting hand size is 7 cards. 
+Players are given a starting hand. Starting hand size is 7 cards.
 
-If a player must play an invade card, but does not have one, than that player discards all cards in hand and draws 7 more.
-
-Players now take turns starting with the first player going clockwise. Game ends when a player has 5 colonies. 
+If a player is involved in an encounter but does not have an encounter card, then they may discard any number of cards in their hand, then draw from the deck until they have 7 cards.
 
 ### Player Turn
+Player turn consists of the four steps shown below.
 
-Resources- Gain one resource for each resources spot you occupy. Trade resources with other players. Spend resources. 
+1. Collect Resource
+2. Spend Resources
+3. Move
+4. Invade
 
-Player may choose to move a stack of ships (may do this twice), or invade an adjacent stack of ships. If that player loses the invasion, than their turn is over. If they win it or moved ships, they get another turn (max 2 turns). Possible turns shown below.
+**Collect Resources**
+Player collects once resource of their choice + one additional gas for every gas planet they occupy + one mineral for every mineral planet they occupy.
 
-Resources
-Move 
-Invade>loss
+**Spend Resources**
+Players may spend their minerals & gas, standard purchases that can be made by all alien races are shown below:
 
-Resources
-Move 
-Invade>win
+Purchase | Mineral Cost | Gas Cost 
+------- | ------- | ------- 
+Two Ships | 1 | 0 
+Draw Card | 0 | 1 
+Planetary Fortress | 2 | 2
 
-Resources
-Move
-Move
+**Move**
+Player may move 1-4 ship(s) from one site to an adjacent site unoccupied by another player.
 
-Resources
-Invade>Loss
+**Invade**
 
-Resources
-Invade>win
-Invade>win
+Place the invasion token to indicate which stack of your ships is invading another players stack of ships. Both players play an invasion card face down and flip it over at the same time. The winner of the invasion is the player with the higher total of ships in their stack + invade attack number. An Negotiate, Sabotage, Quash and Retreat card can also be played in an invasion.
 
-Resources
-Invade>win
-Invade>loss
+Clarification on different invasion scenarios are shown below:
 
-Resources
-Invade>win
-Move
+**Attack, Attack** - Add totals of each side (attack card number + ships in stack + reinforcements ), winner is the higher of the two. If tie occurs, no ships are lost on each side and neither side wins.
 
+**Attack, Negotiate** - 
 
-Move
-Player may move 1-4 ship(s) from one site to an adjacent site unoccupied by another player. Do this twice.
+**Attack, Sabotage** -
 
-Invade
-Player may invade an adjacent site. Place the invasion token indicating which ships are being invaded by who. Players that own ships in the five adjacent sites may ally, adding to the total ships on that side. Main Players are the person invading, and the person being invaded. Allies are players that choose to ally, and indicate that they are doing so by moving their pieces to the side of the main players. Offense is the side invading. Defense is the side being invaded.  
+**Attack, Quash** -
 
-After the Invasion token is placed down and the players on the sides of the token decide if and who they want to ally with; both main players play an Invade Card face down. At the same time both players flip it over. 
+**Attack, Retreat** -
 
-Note: If one of the main players has ships on the sides of the invasion token, he may ally with himself, adding to his total. 
+**Negotiate, Negotiate** -
 
+**Negotiate, Sabotage** -
 
-Winner of the Invasion is determined by the chart shown below.
-Cards Played	Outcome
-Attack-Attack	Offensive and defensive side add up the following: Main player ships on that side + Allie ships on that side + number on card. The side with the higher total wins the Invasion (defense wins on tie), the other side losses the invasion and all ships on that side are lost. The winner can move one stack of ships after (usually to the site that ships were just destroyed) Ally ships return to their original spots
-Attack-Defend	The side that played the attack card wins the invasion, the other side losses the invasion and all ships on that side are lost. The winner can move one stack of ships after (usually to the site that ships were just destroyed). Defense text takes priority to these events.
-Defend-Defend	Both sides win the invasion. Read card events.
+**Negotiate, Quash** -
+
+**Negotiate, Retreat** -
+
+**Sabotage, Sabotage** -
+
+**Sabotage, Quash** -
+
+**Sabotage, Retreat** -
+
+**Quash, Quash** -
+
+**Quash, Retreat** -
+
+**Retreat, Retreat** -
