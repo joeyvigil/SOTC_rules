@@ -20,6 +20,7 @@
    * [Borg](../master/Powers/Borg.md)
    * [Dancer](../master/Powers/Dancer.md)   
    * [Domino](../master/Powers/Domino.md)
+   * [Empire](../master/Powers/Empire.md)
    * [Fodder](../master/Powers/Fodder.md)
    * [Friend](../master/Powers/Friend.md)
    * [Hoarder](../master/Powers/Hoarder.md)
@@ -45,22 +46,27 @@
   * 4 Quash
   * 8 Negotiate
   * 12 Reinforcement
+  * 5 Victory Points
 ### Definitions
-**Ship**- Plastic UFO Looking pieces, can be stacked. A stack is a stack of ships. Maximum stack size is 4 (unless otherwise stated). If a ship is lost then it is sent to the graveyard. Ships are most often times lost by being on the losing side of an encounter.
+**Ship**- Plastic UFO Looking pieces, can be stacked. A **stack** is a stack of ships. Maximum stack size is **4** (unless otherwise stated). If a ship is **lost** then it is sent to the **graveyard**. Ships Can be lost by being on the losing side of an encounter, or if a sabotage card is played.
 
-**Hexagon**- Game board is composed of 19 hexagons designated by a red circle in the center.  
+**Game Board**- Game board is composed of 19 hexagons, planets and resources can exist in the center of these hexagons, ie the center of the circles.
 
-**Site**- A location at the center or corner of a hexagon. Ships can occupy sites by being on top of them. Planet Sites contain a planet. Void Sites contain empty space.
+**Site**- A location that a ship can occupy. On the game board these are located at the center of the circles, or at the corners of the triangles.
 
 **Settlement/Colony**- A planet site that is occupied by a ship(s). The Player who owns the ships, is colonizing the planet. Joint Colony/Settlement may occur when more than one player’s ship(s) is on a planet Site. 
 
 **Cards**- Cards indicate when they are played. 
 
-**Resources**- There are two types of resources Minerals and Gas. Resources are obtained by occupying hexagons with the corresponding tokens. 
-
-
+**Resources**- There are two types of resources Minerals and Gas. Resources are obtained at the beginning of each turn. They can be spent to obtain a number of things.
 ### Goal
-Settlers of the cosmos is a space strategy board game for 3-6 players. The winner of the game is decided by the first player or players to own five Colonies at once.
+The winner is the first player to reach 10 Victory Points. Victory points are obtained in the following ways:
+1. Having your ships colonizing a planet. (+1)
+2. Building a super colony on one of your planets. (+2)
+3. Having cards that award victory points. (+1)
+4. longest road
+5. largest army
+6. Purchasing them.
 
 ### Setup 
 Randomly collect the indicated void planet pieces and planet pieces indicated by the number of players. Arrange them randomly on the red circles on the board. 
@@ -79,7 +85,7 @@ Players | Planet Pieces | Void Planet Pieces
 5 | 16 = 4 + 8 + 4 | 3 = 0 + 2 + 1
 6 | 19 = 1 + 12 + 6 | 0 = 0 + 0 + 0
 
-Players randomly draw three races, choose one that they will play as during the game, and discard the others. Place this card face down and reveal it either at the start of the game or during its first use. Shuffle deck of cards. First player determined by dice roll or some other random element. 2nd player is to the left of 1st player, 3rd player is to the left of 2nd player etc. (i.e. Clockwise turns)
+Players randomly draw two races, choose one that they will play as during the game, and discard the other. Place this card face down and reveal it either at the start of the game or during its first use. Shuffle deck of cards. First player determined by dice roll or some other random element. 2nd player is to the left of 1st player, 3rd player is to the left of 2nd player etc. (i.e. Clockwise turns)
 
 First player places 1-4 ship(s) on a planet of his choice, then places 1-4 ship(s) on any of the surrounding planets. This would mean that if they placed 4 ships on a planet and 4 ships on the surrounding 6 spaces, than that player placed 28 ships (4x7) on their first turn. 
 
