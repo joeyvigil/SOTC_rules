@@ -13,7 +13,7 @@
    * Move Action
    * Invade Action
 6. Alien Powers
-   * [Ascended](../master/Powers/Ascended.md)
+   * [Ascended](https://joeyvigil.github.io/SOTC_rules/Powers/Ascended)
    * [Binary](../master/Powers/Binary.md)
    * [Borg](../master/Powers/Borg.md)
    * [Dancer](../master/Powers/Dancer.md)   
@@ -31,10 +31,11 @@
 
 ### Components
 * 20 Ships of Each Color
-* 19 Planets
+* 19 Victory Point Planets
+* 4 Mineral planets
+* 4 Gas planets
 * Alien Race Cards
 * Invasion Token
-* 14 Blank Tokens
 * 22 Mineral Tokens
 * 12 Gas Tokens
 * 10 Planetary Fortress Tokens
@@ -47,15 +48,15 @@
   * 12 Reinforcement
   * 5 Victory Points
 ### Definitions
-**Ship**- Plastic UFO Looking pieces, can be stacked. A **stack** is a stack of ships. If a ship is **lost** then it is sent to the **graveyard**. Ships Can be lost by being on the losing side of an encounter, or if a sabotage card is played.
+**Ship**- Plastic UFO Looking pieces, can be stacked. A **stack** is a stack of ships. If a ship is **lost** then it is sent to the **graveyard**. Ships Can be lost after an Invasion is resolved.
 
-**Game Board**- Game board is composed of the playing area where ships can occupy, a graveyard and a deck and discard pile.
+**Game Board**- Game board is composed of the playing area where ships can occupy a graveyard a draw and discard pile, victory point counter, and unused resources.
 
 **Site**- A location that a ship can occupy. On the game board these are located at the center of the circles or at the corners.
 
 **Settlement/Colony**- A planet site that is occupied by a ship(s). The Player who owns the ships, is colonizing the planet. Colonizing a planet counts as one Victory point. A planet with a planetary fortress on it counts as 2 victory points.
 
-**Cards**- Encounter cards are played when one players ships attack another players ships. Both players play an encounter card face down. Reinforcements cards can be played afterwards by players involved and not involved in the encounter. Victory point cards give that player an additional victory point.
+**Cards**- **Invasion cards** are played when one players ships attacks another players ships. Both players play an invasion card face down. **Reinforcements cards** can be played afterwards by players involved and not involved in the invasion. **Victory point cards** give that player an additional victory point.
 
 **Resources**- There are two types of resources Minerals and Gas. Resources are obtained at the beginning of each turn. They can be spent to obtain ships, cards, planetary fortresses and other enhancements.
 
@@ -70,7 +71,7 @@ The winner is the first player to reach 10 Victory Points. Victory points are ob
 
 ### Setup 
 
-Randomly collect the indicated number of Victory Point Planets (purple), Gas Planets (green), and Mineral Planets (blue) and place them on the circles of the game board. 
+Randomly collect the indicated number of Victory Point Planets (purple), Gas Planets (green), and Mineral Planets (blue) and place them randomly on the circles of the game board. 
 
 Players | VP Planets | Gas Planets | Mineral Planets
 ------- | ------- | ------- | ------
@@ -115,7 +116,7 @@ Player may move 1-4 ship(s) from one site to an adjacent site unoccupied by anot
 
 **Invade**
 
-Place the invasion token to indicate which stack of your ships is invading another players stack of ships. Both players play an invasion card face down and flip it over at the same time. The winner of the invasion is the player with the higher total of ships in their stack + invade attack number. An Negotiate, Sabotage, Quash and Retreat card can also be played in an invasion.
+Place the invasion token to indicate which stack of your ships is invading another players stack of ships. These two stacks must be adjacent to one another. Both players play an invasion card face down and flip it over at the same time. The winner of the invasion is the player with the higher total of ships in their stack + invade attack number. An Negotiate, Sabotage, Quash and Retreat card can also be played in an invasion. 
 
 Clarification on different invasion scenarios are shown below:
 
