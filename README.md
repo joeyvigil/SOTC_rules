@@ -116,36 +116,36 @@ Player may move 1-4 ship(s) from one site to an adjacent site unoccupied by anot
 
 **Invade**
 
-Place the invasion token to indicate which stack of your ships is invading another players stack of ships. These two stacks must be adjacent to one another. Both players play an invasion card face down and flip it over at the same time. The winner of the invasion is the player with the higher total of ships in their stack + invade attack number. An Negotiate, Sabotage, Quash and Retreat card can also be played in an invasion. 
+Place the invasion token to indicate which stack of your ships is invading another players stack of ships. These two stacks must be adjacent to one another. Both players play an invasion card face down and flip it over at the same time. The winner of the invasion is the player with the higher total of ships in their stack + invade attack number. A Negotiate, Sabotage, Quash and Retreat card can also be played in an invasion. 
 
 Clarification on different invasion scenarios are shown below:
 
 **Attack, Attack** - Add totals of each side (attack card number + ships in stack + reinforcements ), winner is the higher of the two. If tie occurs, no ships are lost on each side and neither side wins.
 
-**Attack, Negotiate** - 
+**Attack, Negotiate** - Player who played attack card Wins. Player who played the negotiate card picks one card from the other players hand for every ship they lost.
 
-**Attack, Sabotage** -
+**Attack, Sabotage** - Player who played attack card Wins. 
 
-**Attack, Quash** -
+**Attack, Quash** - Player who played attack card Wins.
 
-**Attack, Retreat** -
+**Attack, Retreat** - Player who played attack card Wins.
 
-**Negotiate, Negotiate** -
+**Negotiate, Negotiate** - No one wins.
 
-**Negotiate, Sabotage** -
+**Negotiate, Sabotage** - No one wins.
 
-**Negotiate, Quash** -
+**Negotiate, Quash** - No one wins.
 
-**Negotiate, Retreat** -
+**Negotiate, Retreat** - No one wins.
 
-**Sabotage, Sabotage** -
+**Sabotage, Sabotage** - No one wins.
 
-**Sabotage, Quash** -
+**Sabotage, Quash** - No one wins.
 
-**Sabotage, Retreat** -
+**Sabotage, Retreat** - No one wins.
 
-**Quash, Quash** -
+**Quash, Quash** - No one wins.
 
-**Quash, Retreat** -
+**Quash, Retreat** - No one wins.
 
-**Retreat, Retreat** -
+**Retreat, Retreat** - No one wins. 
