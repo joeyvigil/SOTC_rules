@@ -1,0 +1,33 @@
+- less ships in 3 player
+- max turns for mason
+- can get too many planets early
+- tack: more clarification
+- mason: x2 or x3 instead of 4
+- resources should be more useful
+- tack: learn new ability is too expensive
+- can you trade?
+- 9 for 3 players
+- possibly pick spots on edges
+- thanos choose->defend
+- only get one action turn
+- too many turns for mason
+- 8 or 7 planets in 3 players
+- resouces not worth enought
+- negotiate + retreat interation unclear
+- thans stones are devided equally extara stones put on map
+- all interactions between 2 invade-defednse cared need to be hammered out
+- thanos: ges 2 powers everyone starts with one
+- too many negotiate cards
+- asceded should start with 10 or 12?
+- outskirts: (outside edge) is useless
+- 0-40 too big a difference
+- thanos teleport should be reworded, use only once
+- Solution to outside edge being worthless: ians mothership idea
+- Cards that act as equpment like in munchkin, permanent upgrade, 3 equipment slots
+updated:
+- every turn, the players gets 1 (any resource) + extra resources from occupying planets with resources
+- general purchases
+  - 1 mineral -> 1 ship
+  - 1 gas -> 1 card
+  - 2 min 2 gas -> super colony (ships on it worth double)
+  - 3 min 1 gas -> 1 victory point 
