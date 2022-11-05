@@ -149,3 +149,7 @@ Clarification on different invasion scenarios are shown below:
 **Quash, Retreat** - No one wins.
 
 **Retreat, Retreat** - No one wins. 
+
+**Ideas (scratchpad)**
+
+Get points equal to the number of colonies you have each turn, point tracker on outside of board.
