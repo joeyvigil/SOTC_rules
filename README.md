@@ -10,6 +10,7 @@
 3. Goal
 4. Setup
 5. Player Turn
+   * add phases of turn
    * Move Action
    * Invade Action
 6. Alien Powers
